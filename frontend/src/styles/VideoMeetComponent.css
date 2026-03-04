@@ -17,7 +17,10 @@
     display: flex;
     padding: 20px;
     gap: 10px;
+<<<<<<< HEAD
     flex-wrap: wrap;
+=======
+>>>>>>> 99df561fc76e8be88de7e6dbf7d7e9f17c4b85df
 }
 
 .conferenceView video{
